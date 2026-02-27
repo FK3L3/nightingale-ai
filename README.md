@@ -1,4 +1,4 @@
-# ElevenLabs Telegram Assistant
+# Nightingale AI
 
 Standalone backend on your Desktop. Message your Telegram bot and get replies from your ElevenLabs Agent.
 

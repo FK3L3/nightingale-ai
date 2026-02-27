@@ -1,8 +1,8 @@
 {
-  "name": "elevenlabs-telegram-assistant",
+  "name": "nightingale-ai",
   "version": "1.0.0",
   "private": true,
-  "description": "Telegram AI assistant with ElevenLabs",
+  "description": "Nightingale AI assistant",
   "main": "src/server.js",
   "type": "commonjs",
   "scripts": {
