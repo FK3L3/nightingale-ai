@@ -11,7 +11,8 @@ Standalone backend on your Desktop. Message your Telegram bot and get replies fr
 ## 2) Setup
 
 ```bash
-cd /Users/fk3l3/Desktop/elevenlabs-sms-assistant
+git clone https://github.com/FK3L3/nightingale-ai.git
+cd nightingale-ai
 cp .env.example .env
 npm install
 ```
